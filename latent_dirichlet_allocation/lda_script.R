@@ -219,7 +219,6 @@ sessionInfo()
 
 # References
 
-#Grun, B., Hornik, K., Blei, D., Lafferty, J., Phan, X., Matsumoto, M., Nishimura, T., & Cokus, S. 2021. Package 'topicmodels'. url: https://cran.r-project.org/web/packages/topicmodels/topicmodels.pdf
 #Niekler, A., & Wiedemann, G. 2020. Tutorial 6: Topic Models. url: https://tm4ss.github.io/docs/Tutorial_6_Topic_Models.html
 #Schweinberger, M. 2022. Topic Modeling with R. Brisbane: The University of Queensland. url: https://slcladal.github.io/topicmodels.html (Version 2022.03.18).
 #Silge, J., & Robinson, D. 2017. Text mining with R: A tidy approach. " O'Reilly Media, Inc.".
