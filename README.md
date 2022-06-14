@@ -6,7 +6,7 @@ Files included in this repository:
 
 -   `descriptive` contains:
       
-      -   `descriptives_script.R`: This file contains the script that was used to calculate descriptive statistics.
+      -   `descriptive_script.R`: This file contains the script that was used to generate descriptive statistics.
 
 
 -   `latent_dirichlet_allocation` contains:
@@ -14,8 +14,6 @@ Files included in this repository:
       -   `lda_script.R`: This file is the script that was used for the data (pre) processing, Latent Dirichlet Allocation, visualization, and the exploration of the topics and terms.
       
 # References
-
--   Grün, B., Hornik, K., Blei, D., Lafferty, J., Phan, X., Matsumoto, M., Nishimura, T., & Cokus, S. 2021. Package 'topicmodels'. url: https://cran.r-project.org/web/packages/topicmodels/topicmodels.pdf
 
 -   Niekler, A., & Wiedemann, G. 2020. Tutorial 6: Topic Models. url: https://tm4ss.github.io/docs/Tutorial_6_Topic_Models.html
 

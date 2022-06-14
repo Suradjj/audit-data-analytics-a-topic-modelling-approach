@@ -1,9 +1,6 @@
 #The Stargazer package was used to generate a table with descriptive statistics
 library(stargazer)
 
-#A list containing the documents with the corresponding number of pages was loaded in.
-load("descriptive/descriptives.rda")
-
 #The relevant dataframe was constructed.
 df <- data.frame(titles,pages)
 #Removing the row names
