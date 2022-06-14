@@ -10,12 +10,6 @@ library(tm)
 #This package was used to conduct the Latent Dirichlet Allocation
 library(topicmodels)
 
-#Loading in the data
-#Loading the titles for each paper
-load("latent_dirichlet_allocation/papers.rda")
-#Loading the textual data
-load("latent_dirichlet_allocation/content.rda")
-
 #Preprocessing the data
 #The alphanumerical characters were removed beforehand
 text <- stringr::str_replace_all(text, "[^[:alnum:]]", " ")
