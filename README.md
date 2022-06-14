@@ -15,7 +15,7 @@ Files included in this repository:
       
 # References
 
--   `Grun, B., Hornik, K., Blei, D., Lafferty, J., Phan, X., Matsumoto, M., Nishimura, T., & Cokus, S. 2021. Package 'topicmodels'. url: https://cran.r-project.org/web/packages/topicmodels/topicmodels.pdf`
+-   Grun, B., Hornik, K., Blei, D., Lafferty, J., Phan, X., Matsumoto, M., Nishimura, T., & Cokus, S. 2021. Package 'topicmodels'. url: https://cran.r-project.org/web/packages/topicmodels/topicmodels.pdf
 
 -   `Niekler, A., & Wiedemann, G. 2020. Tutorial 6: Topic Models. url: https://tm4ss.github.io/docs/Tutorial_6_Topic_Models.html`
 
